@@ -1,0 +1,54 @@
+body {
+  background-color: #feffde;
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #2596af;
+}
+
+p {
+  font-size: 15px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+#main-page {
+  margin-top: 100px;
+}
+
+#ana-sayfa {
+  padding-right: 10px;
+}
+#hakkımızda {
+  padding-left: 10px;
+}
+
+#art-series {
+  margin-top: 50px;
+}
+
+#art-2 li {
+  color: #2596af;
+  list-style-position: inside;
+}
+
+.series {
+  margin-top: 200px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+img {
+  margin: 50px;
+  height: 600px;
+  width: 800px;
+}
+
+#about-us {
+  padding: 300px;
+  padding-top: 50px;
+}
