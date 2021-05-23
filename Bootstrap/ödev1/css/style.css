@@ -1,0 +1,92 @@
+/* NavBar Start*/
+.navcol {
+  padding-top: 10px;
+  background-color: #3f4347;
+}
+
+.col-8 a {
+  margin-right: 50px;
+  color: white;
+}
+
+.col-4 {
+  color: rgb(187, 14, 14);
+  text-align: center;
+}
+
+/* Navbar End*/
+
+/* MainPage Start*/
+
+.jumbotron {
+  text-align: center;
+  padding: 4rem;
+}
+/* MainPage End*/
+
+/*Products Start*/
+
+#urunler h1 {
+  padding: 50px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-weight: 300;
+  font-size: 3.5rem;
+  line-height: 1.2;
+  color: blueviolet;
+}
+
+.card {
+  color: blueviolet;
+  text-align: center;
+}
+
+.card img {
+  width: 280px;
+  height: 280px;
+}
+
+/*
+.card-body {
+  background-color: white;
+  font-size: 20px;
+}
+
+.card-text {
+  background-color: white;
+}*/
+
+.pricetag {
+  margin-bottom: 50px;
+  float: left;
+  border: 1px solid grey;
+  border-radius: 5px;
+  background-color: grey;
+  color: white;
+}
+
+/*Products End*/
+
+/* About Us Start*/
+#aboutus h1 {
+  padding-top: 50px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-weight: 300;
+  font-size: 3.5rem;
+  line-height: 1.2;
+  color: blueviolet;
+}
+
+.vision {
+  padding: 50px;
+}
+
+.mission {
+  padding: 50px;
+}
+
+#aboutus h4 {
+  color: darkgoldenrod;
+}
+/* About Us End*/
